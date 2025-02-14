@@ -31,5 +31,11 @@ public class contactTest {
 	System.out.println("execute ");
 	}
 	
+	@Test
+	public void arrangethecontact()
+	{
+	System.out.println("execute ");
+	}
+	
 
 }
