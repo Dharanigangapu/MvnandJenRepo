@@ -8,7 +8,7 @@ public class contactTest {
 	public void createcontact()
 	{
 		String URL = System.getProperty("url");
-		String BROWSER=System.getProperty("browse");
+		String BROWSER=System.getProperty("browser");
 		String USERNAME=System.getProperty("username");
 		String PASSWORD=System.getProperty("password");
 		System.out.println(URL);
