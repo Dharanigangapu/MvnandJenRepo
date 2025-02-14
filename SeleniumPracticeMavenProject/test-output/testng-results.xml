@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-13T18:19:35 IST" name="Suite" finished-at="2025-02-13T18:19:35 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2025-02-13T18:19:35 IST" name="Test" finished-at="2025-02-13T18:19:35 IST" duration-ms="42">
+      <class name="pac_02.contactTest">
+        <test-method signature="createcontact()[pri:0, instance:pac_02.contactTest@738dc9b]" started-at="2025-02-13T18:19:35 IST" name="createcontact" finished-at="2025-02-13T18:19:35 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcontact -->
+        <test-method signature="modifythecontact()[pri:0, instance:pac_02.contactTest@738dc9b]" started-at="2025-02-13T18:19:35 IST" name="modifythecontact" finished-at="2025-02-13T18:19:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifythecontact -->
+      </class> <!-- pac_02.contactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
